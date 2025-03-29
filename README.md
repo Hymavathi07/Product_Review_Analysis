@@ -57,12 +57,3 @@ Product Review Analyzer is a tool designed to extract, classify, summarize, and 
    ```
 2. Provide the product review page URL when prompted.
 3. View the extracted and analyzed data.
-
-## Contributing
-Contributions are welcome. Feel free to fork this repository and submit a pull request with improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, please reach out via email or open an issue in the repository.
